@@ -1,3 +1,8 @@
+// CIS163AA 25139
+// Edward Muniz
+// 2020-05-06
+// JavaFX MPG Calculator
+
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
