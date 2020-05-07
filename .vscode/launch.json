@@ -1,0 +1,12 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - HelloFX",
+      "request": "launch",
+      "mainClass": "HelloFX",
+      "projectName": "hellofx_6ea703ff",
+      "vmArgs": "--module-path /home/edward/Documents/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml"
+    }
+  ]
+}
